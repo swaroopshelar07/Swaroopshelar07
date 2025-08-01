@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**swaroopshelar07/Swaroopshelar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Swaroop Shelar 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Passionate about coding and software development
+- Interested in building innovative projects and solving problems
+- Always eager to learn new technologies and improve my skills
+
+## Skills
+- Programming Languages: Python, JavaScript, Java (customize as per your skills)
+- Frameworks & Libraries: React, Node.js, Django (customize as needed)
+- Tools & Platforms: Git, Docker, AWS (customize as needed)
+
+## Projects
+Feel free to check out some of my projects:
+- [Project Name 1](https://github.com/swaroopshelar/project1) - Brief description
+- [Project Name 2](https://github.com/swaroopshelar/project2) - Brief description
+
+## Contact
+- Email: swaroopshelar07@gmail.com
+
+Thanks for visiting my profile!
